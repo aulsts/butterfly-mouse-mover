@@ -13,7 +13,7 @@ To stop the mouse movement, click once on any button on the mouse.
 3. Use:
 
 pip install pyinstaller
-pyinstaller --onefile --windowed --icon=butterfly.ico butterfly_mouse_mover.py
+pyinstaller --onefile --windowed --icon=butterfly_icon.ico butterfly_app.py
 
 
 
